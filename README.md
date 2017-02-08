@@ -3,7 +3,7 @@
 │  │  │ ├──┤ ├─┬╯ ├─┴╮  │ │ │  │ │ │ │ │ │ │    ├──┴╮ ├─┬╯ │  │ │ │ │ ╰──╮ ├─┤  ├─┬╯
 ┴  ┴  ┴ ┴  ┴ ┴ ╰─ ┴  ┴ ─┴─╯ ╰──╯ ╰─┴─╯ ╯ ╰─╯    ╰───╯ ┴ ╰─ ╰──╯ ╰─┴─╯ ╰──╯ ╰──╯ ┴ ╰─
 ```
-> Straightforward file browser for viewing markdown files in Github-like fashion.
+> Straightforward file browser for viewing markdown files locally in Github-like fashion.
 
 ## Look Mum, No Hands
 
