@@ -7,7 +7,9 @@
 
 ## Look Mum, No Hands
 
-This project was put together to solve the problem of having to push changes to Github too often -while writing README, documentation files- just to see how they look and/or the unnecessary use of static site generators to produce redundant html files from markdown while developing locally. Having a markdown viewer as a single PHP file keeps things simple and pleasant until you decide to push changes to Github for the world to see.
+This project was put together to solve the problem of having to push changes to Github too often -while writing README, documentation files- just to see how they look and/or the unnecessary use of static site generators to produce redundant html files from markdown while developing locally. 
+
+Having a markdown viewer as a single PHP file keeps things simple and pleasant until you decide to push changes to Github for the world to see.
 
 ## Getting Started
 
