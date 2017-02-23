@@ -19,7 +19,7 @@ Drop `index.php` in your projects's documentation folder then view it in the bro
 
 ![](https://github.com/websemantics/markdown-browser/raw/master/preview.gif)
 
-The docs folder featured are from [Svelte](https://github.com/sveltejs/svelte) project.
+The docs folder featured is from [Svelte](https://github.com/sveltejs/svelte) project.
 
 ## Baked-in Goodies
 
