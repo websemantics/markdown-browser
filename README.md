@@ -15,6 +15,12 @@ Having a markdown viewer as a single PHP file keeps things simple and pleasant u
 
 Drop `index.php` in your projects's documentation folder then view it in the browser, that's it!
 
+## Preview
+
+![](https://github.com/websemantics/markdown-browser/raw/master/preview.gif)
+
+The docs folder featured are from [Svelte](https://github.com/sveltejs/svelte) project.
+
 ## Baked-in Goodies
 
 Credits to the following projects for making this possible,
