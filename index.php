@@ -1,4 +1,16 @@
 <?php 
+/*
+ | 
+ | ╭──┬──╮ ╭──╮ ┬──╮ ┬ ╭─ ╭┬─╮ ╭──╮ ┬   ┬ ╭─╮ ╭   ╭──╮  ┬──╮ ╭──╮ ┬   ┬ ╭──╮ ╭──╮ ┬──╮
+ | │  │  │ ├──┤ ├─┬╯ ├─┴╮  │ │ │  │ │ │ │ │ │ │   ├──┴╮ ├─┬╯ │  │ │ │ │ ╰──╮ ├─┤  ├─┬╯
+ | ┴  ┴  ┴ ┴  ┴ ┴ ╰─ ┴  ┴ ─┴─╯ ╰──╯ ╰─┴─╯ ╯ ╰─╯   ╰───╯ ┴ ╰─ ╰──╯ ╰─┴─╯ ╰──╯ ╰──╯ ┴ ╰─
+ | 
+ | @link      http://websemantics.ca
+ | @github    https://github.com/websemantics/markdown-browser
+ | @author    Web Semantics, Inc. Dev Team <team@websemantics.ca>
+ | @author    Adnan M.Sagar, PhD. <adnan@websemantics.ca>
+ ╰ */
+
 /* Change content folder, i.e. '/docs' */
 define('CONTENT_DIR', realpath(dirname(__FILE__)).'/');
 
