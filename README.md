@@ -29,6 +29,18 @@ Credits to the following projects for making this possible,
 - [Github Markdown CSS](https://github.com/sindresorhus/github-markdown-css)
 - [Prism Syntax Highlighting](https://github.com/PrismJS/prism)
 
+## Support
+
+Need help or have a question? post at [StackOverflow](https://stackoverflow.com/questions/tagged/markdown-browser+websemantics).
+
+*Please don't use the issue trackers for support/questions.*
+
+*Star if you find this project useful, to show support or simply for being awesome :)*
+
+## Contribution
+
+Contributions to this project are accepted in the form of feedback, bugs reports and even better - pull requests.
+
 ## License
 
 [MIT license](http://opensource.org/licenses/mit-license.php) Copyright (c) Web Semantics, Inc.
